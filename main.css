@@ -209,6 +209,7 @@ section.about .container {
 .btn-mobile:hover {
     border: 2px solid var(--color-primary-black);
     background: var(--color-primary-white);
+    color: #000;
 }
 
 .creations-desc button:hover {
@@ -282,7 +283,7 @@ section.about .container {
     .creations-desc h1 {
         text-align: center;
         position: absolute;
-        left: 33%;
+        margin: 1rem auto;
     }
     .creations-desc button {
         display: none;
